@@ -1,3 +1,3 @@
-## NovaLager : Création, Edition, Voir, Suppression des Produits.
+## CRUD Product.
 
-### L'application est basé sur PHP 8 -  laravel version 9 - Vue JS 3
+### The app build with:  PHP 8 - laravel version 9 - Vue JS 3
